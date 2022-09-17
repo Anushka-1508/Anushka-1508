@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anushka Choubey</h1>
 <h3 align="center">A Passionate Coder from India</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
+- 🌱 I’m currently learning **Data Structures & Algorithm, Java**
 
-- 💬 Ask me about **C/C++**
+- 💬 Love to discuss about **C/C++**
 
 - 📫 How to reach me **15.anushka.choubey@gmail.com**
 
-- ⚡ **I am a Sharp Learner and Technophile**
+- ⚡ **I am a Technophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
